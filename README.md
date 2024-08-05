@@ -3,20 +3,20 @@
   <span class="headline">Python Conditionals</span>
 </h1>
 
-## About
+## About This Module
 
-tktk Write a short but descriptive summary of the content in this module.
+In this module, you will learn how to create logic-driven programs using conditional statements in Python. You will start by understanding the basics of conditional statements, then move on to using comparison operators to evaluate expressions. By the end of this module, you will have the skills to write complex conditional logic and apply these concepts effectively in your Python programs.
 
 ## Content
 
-| Lesson                                                     | Skills                                  |
-| ---------------------------------------------------------- | --------------------------------------- |
-| [Setup](./setup/README.md)                                 | Setting up the development environment. |
-| [Intro to Conditionals](./intro-to-conditionals/README.md) | tktk skills covered                     |
-| [Comparison Operators](./comparison-operators/README.md)   | tktk skills covered                     |
-| [Logic Operators](./logic-operators/README.md)             | tktk skills covered                     |
-| [Wrap Up](./wrap-up/README.md)                             | tktk skills covered                     |
-| **Total content**                                          |                                         |
+| Lesson                                                     | Skills                                                                                  |
+| ---------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| [Setup](./setup/README.md)                                 | Setting up the development environment.                                                 |
+| [Intro to Conditionals](./intro-to-conditionals/README.md) | Defining conditional statements in Python to create logic-driven programs.              |
+| [Comparison Operators](./comparison-operators/README.md)   | Understanding and using comparison operators to evaluate expressions.                   |
+| [Logic Operators](./logic-operators/README.md)             | Enhancing conditional statements with logical operators to combine multiple conditions. |
+| [Wrap Up](./wrap-up/README.md)                             | Reviewing key concepts, ensuring comprehension, and preparing for the next topic        |
+| **Total content**                                          |                                                                                         |
 
 ## References
 
