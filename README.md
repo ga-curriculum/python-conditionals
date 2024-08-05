@@ -1,6 +1,6 @@
 <h1>
   <span class="prefix"></span>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python Conditionals</span>
 </h1>
 
 ## About
@@ -9,13 +9,14 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ## Content
 
-| Lesson | Video Time | Video | Skills |
-| ------ |:----------:|:-----:| ------ |
-| [Setup](./setup/README.md)                          | -- | -- | Setting up the development environment. |
-| [Concepts](./concepts/README.md)                    | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-01/README.md) | -- | -- | tktk skills covered                     |
-| [tktk Microlesson Name](./microlesson-02/README.md) | -- | -- | tktk skills covered                     |
-| **Total content**                                   | -- | -- |                                         |
+| Lesson                                                   | Skills                                  |
+| -------------------------------------------------------- | --------------------------------------- |
+| [Setup](./setup/README.md)                               | Setting up the development environment. |
+| [Concepts](./concepts/README.md)                         | tktk skills covered                     |
+| [Comparison Operators](./comparison-operators/README.md) | tktk skills covered                     |
+| [Logic Operators](./logic-operators/README.md)           | tktk skills covered                     |
+| [Wrap Up](./wrap-up/README.md)                           | tktk skills covered                     |
+| **Total content**                                        |                                         |
 
 ## References
 
@@ -25,17 +26,8 @@ tktk Write a short but descriptive summary of the content in this module.
 
 ### Prerequisites
 
-- tktk
-- tktk
-- tktk
-
-### Deployed sites
-
-tktk If there is not a deployed site related to this module this section and all of its content should be removed.
-
-🌐 [Live site](https://generalassemb.ly/tktk)
-
-🐙 [Repository](https://git.generalassemb.ly/modular-curriculum-all-courses/tktk)
+- Introduction to Python
+- Python Data Structures
 
 ### Resources
 

@@ -16,17 +16,27 @@ concepts = new Template.Microlesson {
   videoUrl = ""
 }
 
-microlesson01 = new Template.Microlesson {
-  friendlyName = "Microlesson 01"
-  dirName = "microlesson-01"
+comparisonOperators = new Template.Microlesson {
+  friendlyName = "Comparison Operators"
+  dirName = "comparison-operators"
   type = "Content"
   videoUrl = ""
 }
 
-microlesson02 = new Template.Microlesson {
-  friendlyName = "Microlesson 02"
-  dirName = "microlesson-02"
+logicOperators = new Template.Microlesson {
+  friendlyName = "Logic Operators"
+  dirName = "logic-operators"
   type = "Content"
   videoUrl = ""
 }
+
+wrapUp = new Template.Microlesson {
+  friendlyName = "Wrap Up"
+  dirName = "wrap-up"
+  type = "Content"
+  videoUrl = ""
+}
+
+
+
 

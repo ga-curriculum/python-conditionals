@@ -1,5 +1,5 @@
 <h1>
-  <span class="headline">[tktk Module Name]</span>
+  <span class="headline">Python Conditionals</span>
   <span class="subhead">Setup</span>
 </h1>
 
@@ -11,11 +11,11 @@ Open your Terminal application and navigate to your <code class="filepath">~/cod
 cd ~/code/ga/lectures
 ```
 
-Make a new directory called <code class="filepath">[tktk-module-name]</code>, then enter this directory:
+Make a new directory called <code class="filepath">[python-conditionals]</code>, then enter this directory:
 
 ```bash
-mkdir [tktk-module-name]
-cd [tktk-module-name]
+mkdir [python-conditionals]
+cd [python-conditionals]
 ```
 
 <!-- Other setup instructions here -->
