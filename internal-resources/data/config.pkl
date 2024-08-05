@@ -22,7 +22,7 @@ courses {
     name = "fallback"
     microlessons {
       mls.setup
-      mls.concepts
+      mls.introToConditionals
       mls.comparisonOperators
       mls.logicOperators
       mls.wrapUp
@@ -32,7 +32,7 @@ courses {
     name = "pps"
     microlessons {
       mls.setup
-      mls.concepts
+      mls.introToConditionals
       mls.comparisonOperators
       mls.logicOperators
       mls.wrapUp
