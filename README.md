@@ -5,7 +5,7 @@
 
 ## About This Module
 
-In this module, you will learn how to create logic-driven programs using conditional statements in Python. You will start by understanding the basics of conditional statements, then move on to using comparison operators to evaluate expressions. By the end of this module, you will have the skills to write complex conditional logic and apply these concepts effectively in your Python programs.
+In this module, you will learn how to create logic-driven programs using conditional statements in Python. You will start by understanding the basics of control flow, then move on to using comparison operators to evaluate expressions. By the end of this module, you will have the skills to write complex conditional logic and apply these concepts effectively to direct your Python programs.
 
 ## Content
 
