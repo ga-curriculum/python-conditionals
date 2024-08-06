@@ -3,9 +3,19 @@
   <span class="headline">Python Conditionals</span>
 </h1>
 
-## About This Module
+## About
 
 In this module, you will learn how to create logic-driven programs using conditional statements in Python. You will start by understanding the basics of control flow, then move on to using comparison operators to evaluate expressions. By the end of this module, you will have the skills to write complex conditional logic and apply these concepts effectively to direct your Python programs.
+
+## Suggested Agenda
+
+| Time      | Activity                                     |
+| --------- | -------------------------------------------- |
+| 0:00–0:15 | Welcome + Introduction                       |
+| 0:15–0:40 | Comparison Operators                         |
+| 0:40–0:50 | Break                                        |
+| 0:50–1:50 | Complex Conditions                           |
+| 1:50–2:00 | Wrapping Up, Q&A, and Exit Ticket Completion |
 
 ## Content
 
