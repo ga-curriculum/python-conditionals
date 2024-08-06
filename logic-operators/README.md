@@ -98,7 +98,7 @@ Avoid chains that are far too long for one line.
 
 > 🍎 If you're checking the value of three different variables, for instance, and have different operations you want to perform for each of the combinations, it's better to nest the conditions instead of having nine extremely long statements in an "if...elif...elif...elif..." situation.
 
-## Solo Exercise : 3.2 Complex Conditions 60 min TKTK
+## Solo Exercise: 3.2 Complex Conditions 60 min TKTK
 
 Some complex conditional challenges await you in Section 3.2 of the Jupyter Notebook. You will need to use our new friends, logical operators, to complete these challenges.
 
