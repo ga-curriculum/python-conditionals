@@ -3,7 +3,7 @@
   <span class="subhead">Intro to Conditionals</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to define and implement conditional statements in Python, using comparison and logical operators to control the flow of a program.
 
 | Lesson                | Duration |
 | --------------------- | -------- |

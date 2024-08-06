@@ -3,7 +3,7 @@
   <span class="subhead">Logic Operators</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to use logic operators in Python to combine multiple conditions, create nested conditionals, and evaluate complex expressions to control the behavior of their programs effectively.
 
 | Lesson          | Duration |
 | --------------- | -------- |

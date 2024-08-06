@@ -3,7 +3,7 @@
   <span class="subhead">Comparison Operators</span>
 </h1>
 
-**Learning objective:** By the end of this lesson, students will be able to tktk
+**Learning objective:** By the end of this lesson, students will be able to utilize comparison operators in Python to evaluate expressions and integrate them into conditional statements to control program flow.
 
 | Lesson               | Duration |
 | -------------------- | -------- |
@@ -38,13 +38,12 @@ if value_one == value_two:
 
 Note the **code block** defined by indenting lines after a colon. This code block executes if the Boolean provided is `true`.
 
-- Emphasize the importance of indentation when it comes to making a conditional work properly and starting a code block.
-- Any code block is ended by providing a new line that's un-indented, which can be very easy to miss.
-- This should be a review of what students saw in the pre-work.
+> 🍎 Indentation is Crucial: When working with conditional statements in Python, proper indentation is key to making your code function correctly. Indentation marks the start of a code block, and every line of code within that block must be consistently indented.
+> Ending a Code Block: A code block is terminated when you provide a new line that is not indented. This transition can be subtle, so be mindful of your indentation as you write your code.
 
 ## `else` Statements
 
-You will often want to have an **`else` statement** immediately after the `if` statement. This will trigger when the `if` comparison turns out to be `false`.
+You will often want to have an `else` statement immediately after the `if` statement. This will trigger when the `if` comparison turns out to be `false`.
 
 ```python
 if value_one == value_two:
