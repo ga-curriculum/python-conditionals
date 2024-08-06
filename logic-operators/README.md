@@ -22,7 +22,7 @@ if product_is_good == True:
         print("Let's buy this product!")
 ```
 
-> 🍎 This way, we only check the “bank_account” variable IF our first condition is also met. However, this can get a bit messy; for this simple situation, it isn't worth having more indented blocks just to add one condition. So, what's the alternative?
+> 🍎 This way, we only check the "bank_account" variable IF our first condition is also met. However, this can get a bit messy; for this simple situation, it isn't worth having more indented blocks just to add one condition. So, what's the alternative?
 
 ## Multiple Conditions, One Statement
 
@@ -96,13 +96,13 @@ Avoid chains that are far too long for one line.
 
 - You can nest conditionals within other conditions for complex logic.
 
-> 🍎 If you're checking the value of three different variables, for instance, and have different operations you want to perform for each of the combinations, it's better to nest the conditions instead of having nine extremely long statements in an “if...elif...elif...elif...” situation.
+> 🍎 If you're checking the value of three different variables, for instance, and have different operations you want to perform for each of the combinations, it's better to nest the conditions instead of having nine extremely long statements in an "if...elif...elif...elif..." situation.
 
 ## Solo Exercise : 3.2 Complex Conditions 60 min TKTK
 
 Some complex conditional challenges await you in Section 3.2 of the Jupyter Notebook. You will need to use our new friends, logical operators, to complete these challenges.
 
-tktk image
+![Image Placeholder](TKTK)
 
 - Expect these challenges to be a bit complex. Take your time working through them.
 

@@ -24,7 +24,7 @@ We’re going to return to topics covered in the pre-work and build upon them:
 
 ### Solo Exercise: Jupyter Notebook Review 10 min TKTK
 
-**Let’s dive right in and use what we learned in the pre-work!** 
+**Let’s dive right in and use what we learned in the pre-work!**
 
 We want to understand where you are in your learning journey so that we can give the best possible experience in class.
 
@@ -36,6 +36,6 @@ Then, rate your confidence level on today's subjects from 1–5.
 
 Conditional logic allows you to create programs that are vastly more complex. Think of the decision-making process of giant flowcharts...
 
-tktk image
+![Image Placeholder](TKTK)
 
 > 🍎 So far, we can write programs that execute in a completely straightforward fashion. Conditionals allow our programs to start making logical decisions based on specific comparisons of input.

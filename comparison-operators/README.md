@@ -75,7 +75,7 @@ else:
     print("The weather is OK")
 ```
 
-tktk image
+![Image Placeholder](TKTK)
 
 ### Careful! Equals Aren’t All Equal...
 
@@ -94,4 +94,4 @@ if temperature == 100:
 
 Now that our programs are able to make some decisions, it's time to test out our conditional logic with some price-based questions in **Section 3.1** of the workbook.
 
-tktk image
+![Image Placeholder](TKTK)
