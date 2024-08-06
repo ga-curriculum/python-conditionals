@@ -26,7 +26,6 @@ In this module, you will learn how to create logic-driven programs using conditi
 | [Comparison Operators](./comparison-operators/README.md)   | Understanding and using comparison operators to evaluate expressions.                   |
 | [Logic Operators](./logic-operators/README.md)             | Enhancing conditional statements with logical operators to combine multiple conditions. |
 | [Wrap Up](./wrap-up/README.md)                             | Reviewing key concepts, ensuring comprehension, and preparing for the next topic        |
-| **Total content**                                          |                                                                                         |
 
 ## References
 
