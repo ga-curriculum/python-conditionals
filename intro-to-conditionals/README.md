@@ -22,7 +22,7 @@ We’re going to return to topics covered in the pre-work and build upon them:
 - Comparison and logical operators
 - Conditional statements
 
-### Solo Exercise: Jupyter Notebook Review 10 min TKTK
+### Solo Exercise: Jupyter Notebook Review (10 min) TKTK Review 10 min TKTK
 
 **Let’s dive right in and use what we learned in the pre-work!**
 
