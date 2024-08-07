@@ -65,7 +65,7 @@ else:
 
 `elif` allows for conditional chaining, letting us check many possibilities back to back. Once one comparison evaluates as `true`, the chain exits.
 
-### Discussion: What Happens in This Code?
+### Discussion: What Happens in This Code? TKTK
 
 ```python
 temperature = 0;
