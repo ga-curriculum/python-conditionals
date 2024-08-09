@@ -5,4 +5,4 @@
 
 ## Lesson references
 
-- [tktk descriptive name of link](https://generalassemb.ly/tktk)
+- [Python Docs: Compound statements](https://docs.python.org/3/reference/compound_stmts.html)
