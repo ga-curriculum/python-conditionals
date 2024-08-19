@@ -22,7 +22,7 @@ First, we’ll need **_comparison operators_** — a set of operators that give 
 | `==`                    | Equality                 |
 | `!=`                    | Inequality               |
 
-> 🍎 Computers can only make decisions based on specific operators. For example, ! means "not." You'll see this in future lessons.
+> 💡 Computers can only make decisions based on specific operators. For example, ! means "not." You'll see this in future lessons.
 
 > When you make comparisons in code, they always result in a Boolean value—either true or false. This helps us make decisions in our programs.
 
@@ -38,7 +38,7 @@ if value_one == value_two:
 
 Note the **code block** defined by indenting lines after a colon. This code block executes if the Boolean provided is `true`.
 
-> 🍎 Indentation is Crucial: When working with conditional statements in Python, proper indentation is key to making your code function correctly. Indentation marks the start of a code block, and every line of code within that block must be consistently indented.
+> 💡 Indentation is Crucial: When working with conditional statements in Python, proper indentation is key to making your code function correctly. Indentation marks the start of a code block, and every line of code within that block must be consistently indented.
 > Ending a Code Block: A code block is terminated when you provide a new line that is not indented. This transition can be subtle, so be mindful of your indentation as you write your code.
 
 ## `else` Statements
@@ -65,7 +65,12 @@ else:
 
 `elif` allows for conditional chaining, letting us check many possibilities back to back. Once one comparison evaluates as `true`, the chain exits.
 
-### Discussion: What Happens in This Code? TKTK
+<br>
+
+<div class="activity discussion">
+  <h2 class="title">What Happens in This Code?</h2>
+  <span class="minutes"></span>
+</div>
 
 ```python
 temperature = 0;
@@ -90,7 +95,12 @@ if temperature == 100:
     print("Leave your pets indoors for safety")
 ```
 
-## Partner Exercise: 3.1 Price Conditions 15 min TKTK
+<br>
+
+<div class="activity partner-exercise">
+  <h2 class="title">3.1 Price Conditions</h2>
+  <span class="minutes">15 min</span>
+</div>
 
 Now that our programs are able to make some decisions, it's time to test out our conditional logic with some price-based questions in **Section 3.1** of the workbook.
 

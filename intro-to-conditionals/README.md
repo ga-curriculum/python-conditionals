@@ -22,7 +22,12 @@ We’re going to return to topics covered in the pre-work and build upon them:
 - Comparison and logical operators
 - Conditional statements
 
-### Solo Exercise: Jupyter Notebook Review 10 min TKTK
+<br>
+
+<div class="activity solo-exercise">
+  <h2 class="title">Jupyter Notebook Review</h2>
+  <span class="minutes">10 min</span>
+</div>
 
 **Let’s dive right in and use what we learned in the pre-work!**
 
@@ -38,4 +43,4 @@ Conditional logic allows you to create programs that are vastly more complex. Th
 
 ![Image Placeholder](TKTK)
 
-> 🍎 So far, we can write programs that execute in a completely straightforward fashion. Conditionals allow our programs to start making logical decisions based on specific comparisons of input.
+> 💡 So far, we can write programs that execute in a completely straightforward fashion. Conditionals allow our programs to start making logical decisions based on specific comparisons of input.
