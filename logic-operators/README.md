@@ -57,7 +57,12 @@ if product_is_good and not product_is_too_expensive:
     # do something
 ```
 
-## True or False?
+<br>
+
+<div class="activity knowledge-check">
+  <h2 class="title">True or False?</h2>
+  <span class="minutes"></span>
+</div>
 
 1. `15 > 10 and 25 > 30`
 
