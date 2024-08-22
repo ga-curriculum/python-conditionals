@@ -41,6 +41,6 @@ Then, rate your confidence level on today's subjects from 1–5.
 
 Conditional logic allows you to create programs that are vastly more complex. Think of the decision-making process of giant flowcharts...
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 > 💡 So far, we can write programs that execute in a completely straightforward fashion. Conditionals allow our programs to start making logical decisions based on specific comparisons of input.

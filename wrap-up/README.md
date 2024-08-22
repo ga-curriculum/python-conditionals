@@ -9,7 +9,13 @@
 
 ## Wrapping Up
 
-| **Recap**                                                                                                                                  | **Looking Ahead**                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- |
-| **In today’s class, we…**                                                                                                                  | **On your own:**                                                                                        |
-| - Defined conditional statements in Python to create logic-driven programs.<br>- Used logical operators to enhance conditional statements. | - Ensure that you’ve completed the Python pre-work.<br><br>**Next Class:**<br>- Loops |
+| **Recap**                                                                                                                                  | **Looking Ahead** |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+| **In today’s class, we…**                                                                                                                  | **On your own:**  |
+| - Defined conditional statements in Python to create logic-driven programs.<br>- Used logical operators to enhance conditional statements. | -                 |
+
+### Exit Tickets
+
+Please take the time to complete any **Exit Ticket Surveys** provided by your instructional team.
+
+![Exit Tickets](./assets/exit-ticket.png)

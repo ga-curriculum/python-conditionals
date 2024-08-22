@@ -112,7 +112,7 @@ Avoid chains that are far too long for one line.
 
 Some complex conditional challenges await you in **Section 3.2** of the Jupyter Notebook. You will need to use our new friends, logical operators, to complete these challenges.
 
-![Image Placeholder](TKTK)
+<!-- ![Image Placeholder](TKTK) -->
 
 - Expect these challenges to be a bit complex. Take your time working through them.
 
