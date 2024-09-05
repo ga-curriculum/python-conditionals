@@ -80,7 +80,7 @@ else:
     print("The weather is OK")
 ```
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/thermometer.png" alt="Thermometer Image" style="width: 300px; height: auto;">
 
 ### Careful! Equals Aren’t All Equal...
 
@@ -104,4 +104,4 @@ if temperature == 100:
 
 Now that our programs are able to make some decisions, it's time to test out our conditional logic with some price-based questions in **Section 3.1** of the workbook.
 
-<!-- ![Image Placeholder](TKTK) -->
+<img src="./assets/price-tag.png" alt="Price Tag Image" style="width: 300px; height: auto;">
