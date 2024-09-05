@@ -41,8 +41,8 @@ Then, rate your confidence level on today's subjects from 1–5.
 
 ### Why Use Conditional Statements?
 
-Conditional logic allows you to ***create programs that are vastly more complex***. Think of the decision-making process of giant flowcharts...
+Conditional logic allows you to **_create programs that are vastly more complex_**. Think of the decision-making process of giant flowcharts...
 
-<img src="./assets/conditional-flow-wikipedia.png" alt="Conditional Logic Wikipedia Search Image" style="width: 500px; height: auto;">
+<img src="./assets/conditional-flow-wikipedia.png" alt="Conditional Logic Wikipedia Search Image" style="width: 800px; height: auto;">
 
 > 💡 So far, we can write programs that execute in a completely straightforward fashion. Conditionals allow our programs to start making logical decisions based on specific comparisons of input.
