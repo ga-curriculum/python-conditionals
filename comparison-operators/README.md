@@ -80,7 +80,7 @@ else:
     print("The weather is OK")
 ```
 
-<img src="./assets/thermometer.png" alt="Thermometer Image" style="width: 300px; height: auto;">
+<img src="./assets/thermometer.png" alt="Thermometer Image" style="width: 100px; height: auto;">
 
 ### Careful! Equals Aren’t All Equal...
 
