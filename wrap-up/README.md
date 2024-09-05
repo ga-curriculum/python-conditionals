@@ -9,10 +9,10 @@
 
 ## Wrapping Up
 
-| **Recap**                                                                                                                                  | **Looking Ahead** |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
-| **In today’s class, we…**                                                                                                                  | **On your own:**  |
-| - Defined conditional statements in Python to create logic-driven programs.<br>- Used logical operators to enhance conditional statements. | -                 |
+| **Recap**                                                                                                                                  | **Looking Ahead**                                             |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| **In today’s class, we…**                                                                                                                  | **On your own:**                                              |
+| - Defined conditional statements in Python to create logic-driven programs.<br>- Used logical operators to enhance conditional statements. | - Work through any unfinished exercises in Jupyter Notebooks. |
 
 ### Exit Tickets
 
